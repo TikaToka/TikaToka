@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TikaToka
+- 👋 Hi, I’m Joochan Joseph Kim, a.k.a. @TikaToka
 - 👀 I’m interested in NLP, and Multi-modal of Vision-and-Language
 - 🌱 I’m currently learning Vision-Language
 - 💞️ I’m looking to collaborate on VL and NLP research
