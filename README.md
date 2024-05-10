@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joochan Joseph Kim
 - 👀 I’m interested in Multi-modal of Video-and-Language with Embodied-AI
-- 🌱 I’m currently learning Vision+Language and Video+Language with Embodied-AI
+- 🌱 I’m currently learning Vision+Language and Robotics
 - 💞️ I’m looking to collaborate on VL, Embodied-Ai research
 - 📫 How to reach me @ jckim@bi.snu.ac.kr
 
