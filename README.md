@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Joochan Joseph Kim
-- 👀 I’m interested in Multi-modal of Video-and-Language with Embodied-AI
-- 🌱 I’m currently learning Multimodal AI and Embodied AI
-<!-- - 💞️ I’m looking to collaborate on VL, Embodied-Ai research -->
+- 👀 I’m interested in Multimodal AI and Embodied-AI
+- 🌱 I’m currently learning Robotics
 - 📫 How to reach me @ jckim@bi.snu.ac.kr
+<!-- - 💞️ I’m looking to collaborate on VL, Embodied-Ai research -->
 
 <!---
 TikaToka/TikaToka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
