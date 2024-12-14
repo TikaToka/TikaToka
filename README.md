@@ -26,6 +26,6 @@ You can click the Preview link to take a look at your changes.
 [![코드트리|실력진단-ford0103](https://banner.codetree.ai/v1/banner/ford0103)](https://www.codetree.ai/profiles/ford0103)
 
 🔗 Link  
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com/](https://slashpage.com/all-about-tika))
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://slashpage.com/all-about-tika)
 
 </div>
